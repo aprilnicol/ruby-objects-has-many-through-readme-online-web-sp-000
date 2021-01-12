@@ -8,8 +8,8 @@ class Meal
     @total = total
     @tip = tip
     @@all << self
-  end 
+  end
  def self.all
-   @@all 
- end 
+   @@all
+ end
  end 
